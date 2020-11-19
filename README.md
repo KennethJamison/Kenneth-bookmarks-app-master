@@ -1,12 +1,12 @@
 # Kenneth-bookmarks-app-master
-#[Click here for live working repo](https://kennethjamison.github.io/Kenneth-bookmarks-app-master/)
+# [Click here for live working repo](https://kennethjamison.github.io/Kenneth-bookmarks-app-master/)
 
 
 
 You can add, delete, rate, and save bookmarks.
 
 
-#App Features:
+# App Features:
 
 See a list of the bookmarks stored in the API.
 
